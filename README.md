@@ -7,9 +7,9 @@ credit is not necessary, but appreciated. do tell people where you got the code 
 <!--preview the layouts-->
 <details>
   <summary>all of the available layouts</summary>
-  <h1><a href=appstore/appstore.html">appstore</a></h1>
+  <h1>appstore</h1>
   <img src="appstore/preview.png" width=500px>
 
-  <h1><a href=cardcaptor/cardcaptor.html">cardcaptor sakura</a></h1>
+  <h1>cardcaptor sakura</h1>
   <img src="cardcaptor/preview.png" width=500px>
 </details>
